@@ -31,7 +31,7 @@ if (isset($_SESSION['emailUser']) != "") {
     <div class="container">
 
       <?php
-      if (isset($_REQUEST['c'])) { ?>
+      if (isset($_REQUEST['a'])) { ?>
         <div class="alert alert-success alert-dismissible fade show" role="alert">
           <strong>Felicitaciones!</strong> Acaba de iniciar sesión correctamente..
         </div>
