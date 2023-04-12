@@ -60,7 +60,7 @@ if (isset($_SESSION['emailUser']) != "") {
 <?php
 } else { ?>
   <script type="text/javascript">
-    location.href = "salir.php";
+    location.href = "index.php";
   </script>
 <?php }
 ?>
