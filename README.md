@@ -1,7 +1,7 @@
 ## Aprende a encriptar contraseñas para el login con PHP
 
 
-##### Ejemplo práctico para consulta una API con el método fetch de JavaScript, ademas usando los métodos async y await para hacerlo un poquito más atractiva la petición.
+##### Este proyecto ofrece un recurso educativo centrado en enseñar cómo implementar de manera efectiva la encriptación de contraseñas para la autenticación de usuarios en aplicaciones PHP. Con un enfoque claro en la seguridad, el tutorial proporciona conocimientos prácticos y directrices esenciales para garantizar la protección adecuada de las contraseñas y fortalecer las medidas de seguridad en entornos de inicio de sesión.
 
 ## IMPORTANTE: 
 
